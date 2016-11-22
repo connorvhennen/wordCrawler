@@ -1,4 +1,4 @@
-/** @file hw4.cpp
+/** @file wordCrawler.cpp
  @brief Declares, defines and implements a Wordcrawler class
  @author Connor Hennen
  @date October 17, 2016
